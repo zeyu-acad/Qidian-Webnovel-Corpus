@@ -10,7 +10,8 @@ As a result, we got 120 novels (from which 10 of these novels' copyright on Qidi
 
 The final corpus consists of **110** novels. 
 
-We also collected the user profiles of readers who has left comments or replies on the novels. **We only collect personal data that are necessary for the purpose of the scientific research, and strictly abid by the GDPR.**
+We also collected the user profiles of readers who has left comments or replies on the novels. 
+**We only collect personal data that are necessary for the purpose of the scientific research, and strictly abid by the GDPR.**
 
 
 
