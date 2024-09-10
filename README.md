@@ -10,7 +10,7 @@ As a result, we got 120 novels (from which 10 of these novels' copyright on Qidi
 
 The final corpus consists of **110** novels, and all the reader comments and replies to the novels. (Timestamp 01/09/2024)
 
-Comments and replies are catergorised by book-level, chapter-level and paragraph level, and stored by per novel.
+Comments and replies are catergorised by **book-level**, **chapter-level** and **paragraph level**, and stored by per novel.
 
 For example: 
 
