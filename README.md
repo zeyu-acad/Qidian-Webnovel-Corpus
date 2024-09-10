@@ -13,5 +13,9 @@ The final corpus consists of **110** novels.
 We also collected the user profiles of readers who has left comments or replies on the novels. 
 **We only collect personal data that are necessary for the purpose of the scientific research, and strictly abid by the GDPR.**
 
+Due to the Data Regulation and Policy, for the moment, we cannot share the comment/replies and user profile data through this Github repository. However, we are more than happy to share the data with any reserachers that are also interested in this topic.
+
+For more information, you can reach out to me at z.yu@rug.nl
+
 
 
