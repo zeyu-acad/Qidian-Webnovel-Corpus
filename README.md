@@ -41,6 +41,7 @@ About the data
 
 
 License
+
 This dataset is partially (story metadata, chapter metadata, and story mappings) released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 The depersonalized reader response data included in this dataset is subject to a separate **Data Transfer Agreement**. Users must review and accept the DTA before accessing or using the reader comments data. 
@@ -49,10 +50,10 @@ The depersonalized reader response data included in this dataset is subject to a
   -  Researchers affiliated with universities or not-for-profit research institutes may use the Qidian-Webnovel Corpus 110 dataset for conducting not-for-profit scientific research, in accordance with the Data Transfer Agreement provided by the University of Groningen.
 
 - Restrictions
-  -The files with restricted access are not open in order to be able to comply with third party licenses and to mitigate a risk of re-identification in terms of the GDPR. It is not allowed to disclose the full version of the Qidian-Webnovel Corpus 110 dataset to any third party or otherwise use it for your own benefit or for the benefit of a third party, without first obtaining written consent from the University of Groningen. 
+  -  The files with restricted access are not open in order to be able to comply with third party licenses and to mitigate a risk of re-identification in terms of the GDPR. It is not allowed to disclose the full version of the Qidian-Webnovel Corpus 110 dataset to any third party or otherwise use it for your own benefit or for the benefit of a third party, without first obtaining written consent from the University of Groningen. 
 
 - Terms of Access
-  -Permission for access can be granted by the University of Groningen Digital Competence Centre on behalf of the researcher(s) responsible for this dataset after assessment of credentials of the applicant and the reasons for the request. The signing of a Data Transfer Agreement is part of the procedure before access can be granted.
+  -  Permission for access can be granted by the University of Groningen Digital Competence Centre on behalf of the researcher(s) responsible for this dataset after assessment of credentials of the applicant and the reasons for the request. The signing of a Data Transfer Agreement is part of the procedure before access can be granted.
 The procedure starts with a request for access via this dataset at DataverseNL.
 
 For more information about the dataset, you can reach out to z.yu@rug.nl.
