@@ -18,22 +18,65 @@ We also collected the user profiles of readers who has left comments or replies 
 
 **About the data**
 
-**bookList**: This csv file contain the mapping link for the same story published on both qidian and webnovel. The final corpus consists of 110 stories. According to WebNovel’s categorisation visible on the website interface, these 110 stories consist of 103 Male Lead and 7 Female Lead. 
+- **bookList**
 
-**qidianFreeChapterDates**: This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains the publication dates for all free available chapters of that story in the dataset.
+  - This csv file contain the mapping link for the same story published on both qidian and webnovel. The final corpus consists of 110 stories. According to WebNovel’s categorisation visible on the website interface, these 110 stories consist of 103 Male Lead and 7 Female Lead. 
 
-**qidianFreeChapterIds**: This zip file contains text files, each named by its corresponding Qidian bookID. Each text file contains the unique IDs for all free chapters of that story.
+- **qidianFreeChapterDates**
 
-**qidianFreeChapterMeta**: This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains metadata for all chapters of that book, including the number of reviews received for each paragraph (reviewNum), chapterID, and bookID.
+  - This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains the publication dates for all free available chapters of that story in the dataset.
 
-**webnovelFreeChapterDates**: This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains metadata for the free available chapters, including their publish time and update time.
+- **qidianFreeChapterIds**
 
-**webnovelFreeChapterIds**: This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains the chapterID and chapter title for all free available chapters.
+  - This zip file contains text files, each named by its corresponding Qidian bookID. Each text file contains the unique IDs for all free chapters of that story.
 
-**webnovelFreeChapterMeta**: This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains metadata for all chapters of that book, including the number of reviews received for each paragraph (reviewAmount), paragraphID, chapterID, and bookID.
+- **qidianFreeChapterMeta**
 
+  - This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains metadata for all chapters of that book, including the number of reviews received for each paragraph (reviewNum), chapterID, and bookID.
 
+- **webnovelFreeChapterDates**
 
+  - This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains metadata for the free available chapters, including their publish time and update time.
+
+- **webnovelFreeChapterIds**
+
+  - This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains the chapterID and chapter title for all free available chapters.
+
+- **webnovelFreeChapterMeta**
+
+  - This zip file contains CSV files, each named by its corresponding WebNovel bookID. Each CSV file contains metadata for all chapters of that book, including the number of reviews received for each paragraph (reviewAmount), paragraphID, chapterID, and bookID.
+
+- **qidianReviews_depersonalised**
+
+  - This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains reviewId, content (of the review), likeCount (number of likes for this review), userID, level (the level of the user account).
+
+- **qidianReplies_depersonalised**
+
+  - This zip file contains CSV files, each named by its corresponding Qidian bookID. Each CSV file contains reviewId, quoteReviewId (the review of this reply to) content (of the reply), likeAmount (number of likes for this review), userID, userlevel (the level of the user account).
+  
+- **webnovelReviews_Booklevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for reviews to the book, inclduing reviewId, content (book review), bookId, totalscore (review score), replyAmount (number of replies to this review), likeAmount (number of likes to this review), userID, (the level of the user account).
+
+- **webnovelReviews_Chapterlevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for chapter reviews of the book, including chapterId, reviewId, content (review), userID, (the level of the user account).
+
+- **webnovelReviews_Paragraphlevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for paragraph reviews of the book, including chapterId, paragraphId, reviewId, content (review), replyAmount (number of replies to this review), likeAmount (number of likes to this review), userID, userLevel(the level of the user account).
+
+- **webnovelReplies_Booklevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for replies to book reviews, including bookId, bookName, reviewId, content (reply), likeAmount (number of likes to this review), pReviewId (the book review ID), userID, and userLevel(the level of the user account).
+
+- **webnovelReplies_Chapterlevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for replies to the chapter reviews of the book, including chapterId, reviewId, sourceReviewId (the chapter review ID) content (replies), level (the level of the user account).
+
+- **webnovelReplies_Paragraphlevel_depersonalized**
+
+  - This zip file contains csv files, each named by it's corresponding WebNovel bookID. Each CSV file contains metadata for replies to the paragraph reviews of the book, including chapterId, paragraphId, reviewId, content (reply), sourceReveiwId (the paragraph review ID), userID, (the level of the user account).
 
 
 **License**
