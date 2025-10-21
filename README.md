@@ -12,14 +12,11 @@ The final corpus consists of **110** novels, and all the reader comments and rep
 
 Comments and replies are catergorised by **book-level**, **chapter-level** and **paragraph level**, and stored by per novel.
 
-For example: 
-
 We also collected the user profiles of readers who has left comments or replies on the novels. 
 **We only collect personal data that are necessary for the purpose of the scientific research, and strictly abid by the GDPR.**
 
-Due to the Data Regulation and Policy, for the moment, we cannot share the comment/replies and user profile data through this Github repository. However, we are more than happy to share the data with any reserachers that are also interested in this topic.
 
-About the data
+**About the data**
 
 **bookList**: This csv file contain the mapping link for the same story published on both qidian and webnovel. The final corpus consists of 110 stories. According to WebNovel’s categorisation visible on the website interface, these 110 stories consist of 103 Male Lead and 7 Female Lead. 
 
@@ -39,8 +36,8 @@ About the data
 
 
 
+**License**
 
-License
 
 This dataset is partially (story metadata, chapter metadata, and story mappings) released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
